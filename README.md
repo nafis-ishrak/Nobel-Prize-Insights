@@ -1,4 +1,4 @@
-# Project Name: Nobel Prize Winners Analysis
+# Nobel Prize Insights: Revealing Trends and Patterns in Nobel Prize Winner Data
 
 ## Overview
 This project focuses on analyzing a dataset of Nobel Prize winners. It involves data cleansing, data processing, data analysis, and visualizing graphs. The main objective of this project is to identify patterns and insights related to Nobel Prize winners, including their demographics, research organizations, and achievements.
